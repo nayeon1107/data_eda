@@ -2,8 +2,8 @@
 
 
 ## 📃 Data
- **IEEE CIS fraud detection dataset**
-![dataset](https://www.kaggle.com/c/ieee-fraud-detection/overview)
+ **[IEEE CIS Fraud Detection Dataset](https://www.kaggle.com/competitions/ieee-fraud-detection)**
+
 
 ```bash
 # User data
